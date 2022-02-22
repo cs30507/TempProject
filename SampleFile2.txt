@@ -1,1 +1,2 @@
-Some Text - File 2
+Some Text - File 2 [Updated]
+New Line of text in existing file.
