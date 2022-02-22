@@ -1,3 +1,4 @@
 Some Text - File 2 [Updated]
 NewLine in between.
 New Line of text in existing file.
+Adding new line at the bottom.
